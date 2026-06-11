@@ -1,0 +1,23 @@
+{
+  "name": "ovokohw",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcerniauskas/ovokoHW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dcerniauskas/ovokoHW/issues"
+  },
+  "homepage": "https://github.com/dcerniauskas/ovokoHW#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  }
+}
